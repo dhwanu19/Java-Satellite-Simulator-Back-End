@@ -1,8 +1,8 @@
-# Back in Blackout Project
+# Java Satellite Simulator Back End
 
 ## Overview
 
-The "Back in Blackout" project is a simplified simulation designed for the COMP2511 course, focusing on the representation of a ring and its rotating satellites around Jupiter. The primary objective of this project was to create and maintain connections between satellites and devices, leveraging the power of Java and JSON for effective data handling.
+This project is a simplified simulation designed for the COMP2511 course, focusing on the representation of a ring and its rotating satellites around Jupiter. The primary objective of this project was to create and maintain connections between satellites and devices, leveraging the power of Java and JSON for effective data handling.
 
 ## Duration
 
